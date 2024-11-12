@@ -1,5 +1,7 @@
 # Homework 2
 
+# because of some kaleido issue i could't save figures and images to file, so you are welcome to run it's on your own :( 
+
 You are given a Python file with either blank spaces that need to be filled in or bullet points outlining what needs to be implemented. Feel free to modify it as you wish.
 
 1. Load the Flickr30k dataset.
